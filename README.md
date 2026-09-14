@@ -3,13 +3,13 @@ NAMA:M.Firzy Alfurqon
 NIM:09011382530149  
 
 1. Mencari dan Menghapus File Log Lama
-  `firzy@ubuntu:~$ find /var/log \`
-  `> -type f \`
-  `> -name "*.log" \`
-  `> -mtime +30 \`
-  `> -delete`
+`firzy@ubuntu:~$ find /var/log \`
+`> -type f \`
+`> -name "*.log" \`
+`> -mtime +30 \`
+`> -delete`
 2. Melihat 10 Proses Konsumsi RAM Tertinggi
-  `firzy@ubuntu:~$ ps aux \`
+`firzy@ubuntu:~$ ps aux \`
 `> --sort=-%mem | \`
 `> head -n 11`
 3. Melihat 10 Proses Konsumsi CPU Tertinggi
