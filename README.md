@@ -4,7 +4,7 @@ NIM:09011382530149
 
 Berikut adalah 50 perintah terminal Ubuntu untuk username `firzy`:
 
-1. Melihat Direktori Saat Ini
+1. Melihat Direktori Saat Ini   
 firzy@ubuntu:~$ pwd
 /home/firzy
 2. Melihat Daftar File dan Folder
